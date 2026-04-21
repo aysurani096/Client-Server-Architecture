@@ -96,7 +96,7 @@ the server will start at http://localhost:8080/api/v1
 
 ============
 
-<!-- Overview
+## Overview
 The project uses Java, Maven and JAX-RS (Jersey) to implement a RESTful Smart Campus management API.
 The system operates hierarchical campus resources such as Rooms and Sensors and Sensor Readings in accordance with requirements of the REST architectural design, such as resource-based URIs, stateless communication, adequate HTTP status codes, hypermedia navigation and structured error control.
 The API will model a virtual enterprise backend framework that provides facilities management and automated IoT surveillance services.
@@ -223,5 +223,5 @@ This project presents a REST API design of production style that implements:
 • Organized exception mapping.
 • Nested resources
 • Logging filters
-It is a standard practice of backend engineering in the industry. -->
+It is a standard practice of backend engineering in the industry. 
 ============
