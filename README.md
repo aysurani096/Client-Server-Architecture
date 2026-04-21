@@ -216,6 +216,7 @@ curl -X POST http://localhost:8080/api/v1/sensors/TEMP-001/readings \
 
 Conclusion
 This project presents a REST API design of production style that implements:
+
 • Resource hierarchy
 • Stateless operations
 • Idempotent methods
@@ -223,5 +224,5 @@ This project presents a REST API design of production style that implements:
 • Organized exception mapping.
 • Nested resources
 • Logging filters
-It is a standard practice of backend engineering in the industry. 
-============
+It is a standard practice of backend engineering in the industry.
+
