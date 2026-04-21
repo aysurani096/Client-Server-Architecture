@@ -1,0 +1,16 @@
+target/
+
+# Maven wrapper and local build output
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
